@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Akun Negative Case 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85720ce7-aaee-4f2e-b535-448ca3a0e636</testCaseGuid>
+</TestCaseEntity>
